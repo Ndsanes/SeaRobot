@@ -1,7 +1,21 @@
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <a href="https://i.328888.xyz/2023/01/02/t0nqq.th.jpeg">
+  <img src="https://i.328888.xyz/2023/01/02/t0nqq.th.jpeg" width="200" height="200" alt="">
+  </a>
+</p>
 
-![t0nqq.th.jpeg](https://i.328888.xyz/2023/01/02/t0nqq.th.jpeg)
+<div align="center">
 
-# Sea_Robot
+# SeaRobot
+
+_✨ 适用于Seatable&nonebot对接插件 ✨_
+
+~~（因为没有人给我画图所以我就先用自己的头像顶着了awa）~~
+
+<div align="left">
+
+----
 ## 项目简介
 旨在使非盈利项目组比较随意的管理方式更加统一，增加信息交流的效率，同时尽量保留项目的易用性和可拓展性，使更多人也可以使用本项目来管理自己的群聊。
 ## 项目特点
