@@ -43,11 +43,11 @@ This project is licensed under the GPLv3 License.
 
 This project uses SeaTable community edition, which is released under different licenses:
 
-dtable-web: Apache License v2
-dtable-events: Apache License v2
-dtable-server: Proprietary License
-seaf-server: AGPLv3
-thumbnail-server: Apache License v2
+- dtable-web: Apache License v2
+- dtable-events: Apache License v2
+- dtable-server: Proprietary License
+- seaf-server: AGPLv3
+- thumbnail-server: Apache License v2
 
 ## 常见问题解答
 （文档还在完善中，感谢你的查看）
