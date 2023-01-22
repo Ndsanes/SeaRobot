@@ -14,6 +14,8 @@ _✨ 适用于 Seatable 和 NoneBot 的对接插件 ✨_
 
 ~~（因为没有人给我画图所以我就先用自己的头像顶着了 awa）~~
 
+English Version: [README_en.md](README_en.md)
+
 <div align="left">
 
 ----
