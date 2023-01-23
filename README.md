@@ -10,7 +10,7 @@
 # SeaRobot
 
 <!-- markdownlint-disable MD036 -->
-_✨ 适用于 Seatable 和 NoneBot 的对接插件 ✨_
+_✨ 适用于 SeaTable 和 NoneBot 的对接插件 ✨_
 
 ~~（因为没有人给我画图所以我就先用自己的头像顶着了 awa）~~
 
@@ -29,19 +29,19 @@ English Version: [README_en.md](README_en.md)
 1. 免费且开源；
 2. 项目简单、易懂、易拓展；
 3. 使得下级可以一站式完成管理流程，无需频繁切换软件来查看通知、任务或最新消息；
-4. Seatable 为不懂代码的管理者提供了 Web 界面，让其操作更加省心，放心，安心！
+4. SeaTable 为不懂代码的管理者提供了 Web 界面，让其操作更加省心，放心，安心！
 
 ## 如何安装
 
-该项目基于 NoneBot 和 Seatable 项目开发，所以你首先需要安装这两个项目。
+该项目基于 NoneBot 和 SeaTable 项目开发，所以你首先需要安装这两个项目。
 
 ### 1. NoneBot 的配置
 
 （文档还在完善中，感谢你的查看）
 
-### 2. Seatable 的部署（或参数获取）
+### 2. SeaTable 的部署（或参数获取）
 
-感谢 Seatable 团队为本项目免费提供开发者版本，并且大力支持其项目的私有化部署。如果没有 Seatable 的支持，本项目亦不会存在！
+感谢 SeaTable 团队为本项目免费提供开发者版本，并且大力支持其项目的私有化部署。如果没有 SeaTable 的支持，本项目亦不会存在！
 
 #### 开发者版
 
