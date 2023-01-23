@@ -10,7 +10,7 @@
 # SeaRobot
 
 <!-- markdownlint-disable MD036 -->
-_✨ Docking plug-in for Seatable and NoneBot ✨_
+_✨ Docking plug-in for SeaTable and NoneBot ✨_
 
 中文版：[README.md](README.md)
 
@@ -27,19 +27,19 @@ This project is designed to help administrators unify the management of non-prof
 1. Free and open source.
 2. The project is simple, easy to understand and develop.
 3. Enables subordinates to complete the management process in one place, without the need to frequently switch software to view notifications, tasks or the latest news;
-4. Seatable provides a web interface for managers who do not know how to code, making it easier to use, safer and more secure!
+4. SeaTable provides a web interface for managers who do not know how to code, making it easier to use, safer and more secure!
 
 ## How to install
 
-The project is based on the NoneBot and Seatable projects, so you need to install both of them first.
+The project is based on the NoneBot and SeaTable projects, so you need to install both of them first.
 
 ### 1. Configuration of NoneBot
 
 (Documentation is still being worked on, thank you for checking it out)
 
-### 2. Seatable deployment (or parameter fetching)
+### 2. SeaTable deployment (or parameter fetching)
 
-Thanks to the Seatable team for providing the developer version of this project for free and for supporting the private deployment of their project. Without Seatable's support, this project would not exist!
+Thanks to the SeaTable team for providing the developer version of this project for free and for supporting the private deployment of their project. Without SeaTable's support, this project would not exist!
 
 #### Developer version
 
